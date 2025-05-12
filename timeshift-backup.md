@@ -7,6 +7,10 @@ I made a backup partition on your laptop where the backups will be stored (sda3,
 
 Don't backup your personal files, you don't have the space. 
 
+It's unlikely that you'll need the info below but it's better to be safe than sorry. 
+To give you some perspective, on my own machines I've never had to restore a backup unless I was 
+experimenting on an old laptop and doing unsafe things. 
+
 ---
 *This is a bunch of ChatGPT prompts that I edited a little and proofread. It's accurate but far from exhaustive*
 
