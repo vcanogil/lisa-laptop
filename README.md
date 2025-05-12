@@ -6,6 +6,7 @@
 - To boot from a USB (in case you're restoring your system), hold F12 and choose the USB option. If it doesn't work, go into bios and enable F12 Boot menu under Main. 
 - You will learn how to do most things but just looking around and clicking things and then reading. Things might be overwhelming for a couple of weeks but you'll get used to it and then you'll get to say "I use linux" with a sense of superiority to windows-peasants at dinner parties.
 - Don't put laptop on your bed. Put it on top of a book or a bed table or something. Otherwise it'll be all dusty again.
+- On the desktop, your have a "Lubunut Manual". It explains like some of the apps you have works. It's all right but nothing you can't learn by just clicking around and reading.
 
 ## Expected problems 
 Most of them are probably going to associated with 
