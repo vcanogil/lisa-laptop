@@ -8,6 +8,8 @@ I made a backup partition on your laptop where the backups will be stored (sda3,
 Don't backup your personal files, you don't have the space. 
 
 ---
+*This is a bunch of ChatGPT prompts that I edited a little and proofread. It's accurate but far from exhaustive*
+
 
 ## 🧭 Main Interface Overview
 
