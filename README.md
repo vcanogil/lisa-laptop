@@ -3,7 +3,7 @@
 ## What you REALLY need to know 
 - Your BIOS password is "1234".
 - To enter BIOS, press and hold F2 at startup
-- To boot from a USB (in case you're restoring your system), hold F12 and choose the USB option
+- To boot from a USB (in case you're restoring your system), hold F12 and choose the USB option. If it doesn't work, go into bios and enable F12 Boot menu under Main. 
 - You will learn how to do most things but just looking around and clicking things and then reading. Things might be overwhelming for a couple of weeks but you'll get used to it and then you'll get to say "I use linux" with a sense of superiority to windows-peasants at dinner parties. 
 
 ## Expected problems 
